@@ -1,0 +1,3 @@
+[intake.drivers]
+intake-server-auth = intake_server_auth.intake_server_auth:SecretAuth
+
